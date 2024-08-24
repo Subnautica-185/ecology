@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: greenyellow;
+}
+h1 {text-align: center;
+}
+.derevo {text-align:center;
+     width: 100px ;
+      height: 100px;
+      margin-left: 600px;
+}
+.tesla {text-align: center ;
+     width: 150px;
+      height: 100px;
+    }
+.LOGO{width: 100%;}
+.dodge {margin-left: 550px;}
